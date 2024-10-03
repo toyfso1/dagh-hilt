@@ -5,6 +5,8 @@ Một ứng dụng Android mẫu sử dụng [Dagger Hilt](https://dagger.dev/hi
 ## Mô tả
 
 Dự án này là một ví dụ cơ bản về cách sử dụng Dagger Hilt để quản lý Dependency Injection và Retrofit để gọi API trong một ứng dụng Android. Ứng dụng sẽ tải danh sách người dùng từ một API và hiển thị chúng trong một RecyclerView.
+
+
 ![image](https://github.com/user-attachments/assets/c6b9016e-b5b3-46f1-a9ca-c1d2aac66898)
 
 ## Công nghệ sử dụng
