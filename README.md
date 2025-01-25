@@ -1,4 +1,4 @@
-<!--# Dagger Hilt Example
+# Dagger Hilt Example
 
 Một ứng dụng Android mẫu sử dụng [Dagger Hilt](https://dagger.dev/hilt/) cho Dependency Injection và [Retrofit](https://square.github.io/retrofit/) cho việc gọi API.
 
